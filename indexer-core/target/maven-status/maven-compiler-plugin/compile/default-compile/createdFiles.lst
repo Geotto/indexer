@@ -1,0 +1,5 @@
+com/dipper/indexer/cache/AIndexerManager.class
+com/dipper/indexer/model/Indexer.class
+com/dipper/indexer/model/CommonStore.class
+com/dipper/indexer/model/IndexEntry.class
+com/dipper/indexer/model/IndexStore.class
